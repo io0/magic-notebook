@@ -1,0 +1,4 @@
+scrapy
+path
+syntok
+lxml

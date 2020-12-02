@@ -21,3 +21,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# scraper stuff
+WikiVitalArticles/data
+WikiVitalArticles/data_L5
+WikiVitalArticles/WikiEssentials_L4.txt
+WikiVitalArticles/WikiEssentials_L4_only.txt
+WikiVitalArticles/WikiEssentials_L4_ecoexpanded.txt
+*.pyc
+WikiVitalArticles/*.npy
+WikiVitalArticles/doc_idx_names.json
+
+# etc
+.vscode/
